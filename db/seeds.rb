@@ -8,5 +8,7 @@
 
 Quote.create(quip: "Wherever you go, there you are")
 Quote.create(quip: "The only true wisdom is knowing you know nothing")
-Quote.create(quip: "second mouse gets the cheese")
-Quote.create(quip: "Taco")
+Quote.create(quip: "Create the things you wish existed")
+Quote.create(quip: "Ask yourself if what you're doing today gets you closer to where you want to be tomorrow")
+Quote.create(quip: "Your greatest fear often contains your greatest growth")
+Quote.create(quip: "Focus on the 24 hours in front of you")
