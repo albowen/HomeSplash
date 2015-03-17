@@ -13,3 +13,19 @@ position: absolute;
   font-family: impact;
   font-size: -4em;
 }
+
+#quote {
+  bottom: 5em;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  font-size: 0.99em;
+
+  &:before {
+    content: open-quote;
+  }
+
+  &:after {
+    content: close-quote;
+  }
+}
